@@ -1,2 +1,1 @@
-# Borgo-a-Biblioteca-.
-kkk
+# Borgo-a-Biblioteca
